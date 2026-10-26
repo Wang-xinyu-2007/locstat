@@ -1,0 +1,10 @@
+/* 示例样式表：整段块注释 */
+body {
+  margin: 0; /* 行尾注释 */
+  font-family: system-ui, sans-serif;
+}
+
+.title {
+  color: #1f6feb;
+  font-size: 2rem;
+}
